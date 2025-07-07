@@ -1,0 +1,11 @@
+--2025-07-03 16:53:53--  https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS.PUB
+Resolving apt.repos.intel.com (apt.repos.intel.com)... 23.211.153.217, 2600:1417:75:d83::a87, 2600:1417:75:d8f::a87
+Connecting to apt.repos.intel.com (apt.repos.intel.com)|23.211.153.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4738 (4.6K) [application/vnd.exstream-package]
+Saving to: ‘STDOUT’
+
+-                     0%[                    ]       0  --.-KB/s               -                   100%[===================>]   4.63K  --.-KB/s    in 0s      
+
+2025-07-03 16:53:55 (428 MB/s) - written to stdout [4738/4738]
+
